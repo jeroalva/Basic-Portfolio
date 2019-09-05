@@ -1,0 +1,39 @@
+body {
+    background-image: url("../images/papyrus.png");
+    margin: auto;
+}
+
+header {
+    background-color: #ffffff;
+    height: 55px;
+    font-size: 5px;
+    color: gray;
+}
+
+article{
+    max-width: 960px;
+    margin: auto;
+    color: #4aaaa5;
+    background-color: #ffffff;
+}
+
+#contenidoCabecera {
+    max-width: 960px;
+    margin: auto;
+}
+
+#yourName {
+    background-color: rgb(74,170,165);
+    color: white;
+    max-width: 145px;
+    float: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:14.5px;
+    padding: 20.25px;
+    text-align: center;
+}
+
+#menuItems {
+ position: relative;
+ left: 150px;
+}
