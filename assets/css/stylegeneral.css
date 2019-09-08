@@ -60,6 +60,12 @@ h1 {
     margin: 10px 0 10px 0;
 }
 
+#opcionSeleccionada {
+    float: left;
+    margin: 10px 0 10px 0;
+    font-weight: bold;
+}
+
 #Portfolio {
     float: left;
     padding: 0 10px 0 10px;
@@ -124,7 +130,22 @@ a{
     text-decoration: none;
 }
 
-#cajaComentarios {
+#cajasTexto {
     height: 40px;
     width: 80px;
+    resize: none;
+}
+
+#boton {
+    background-color: #4aaaa5;
+    clear: both;
+    color: white;
+    border: none;
+    position: relative;
+    bottom: -123px;
+    left: 10px;
+}
+
+#cajaBlanca {
+    margin-bottom: 110px;
 }
